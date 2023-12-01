@@ -15,6 +15,7 @@ Technologies:
 ✨ SDWebImage
 
 App screenshots:
-<img width="918" alt="Screenshot 2023-11-30 at 23 13 31" src="https://github.com/cerennnnn/Netflix-Clone/assets/97634053/c5f0511c-25d9-4638-a6ef-57972f963b77">
+<img width="918" alt="Screenshot 2023-11-30 at 23 13 31" src="https://github.com/cerennnnn/Netflix/assets/97634053/8afcf648-5aa9-4adf-8dfc-f2e7fade2e37">
 
-<img width="947" alt="Screenshot 2023-11-30 at 23 15 29" src="https://github.com/cerennnnn/Netflix-Clone/assets/97634053/f9fc15c9-1a17-4533-9e3f-c6264e347f12">
+
+<img width="947" alt="Screenshot 2023-11-30 at 23 15 29" src="https://github.com/cerennnnn/Netflix/assets/97634053/f14b7000-1ba6-4753-940a-74a1ce233bde">
