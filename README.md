@@ -12,6 +12,7 @@ Technologies:
 ✨ TMDB API
 ✨ Core Data
 ✨ Notification Center
+✨ WKWebView
 ✨ SDWebImage
 
 App screenshots:
